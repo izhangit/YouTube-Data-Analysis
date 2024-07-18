@@ -28,7 +28,7 @@ youtube = build('youtube', 'v3', developerKey=api_key)
 
 # Data Extraction
 
-######  - Extract video metadata (title, description, tags).
+######  - Extract video metadata (Channel_name, Subscribers, Views, Total_Videos).
 
 
 ```python
