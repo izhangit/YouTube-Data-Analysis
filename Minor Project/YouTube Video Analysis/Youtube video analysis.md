@@ -23,7 +23,7 @@ warnings.filterwarnings("ignore", category=UserWarning, module="IPython.core.pyl
 
 ```python
 # Initialize YouTube API
-api_key = 'AIzaSyCjwCjcAhAtwYODkUymowLpBMfG_KoqTyA'
+api_key = 'Api Key'
 youtube = build('youtube', 'v3', developerKey=api_key)
 ```
 
